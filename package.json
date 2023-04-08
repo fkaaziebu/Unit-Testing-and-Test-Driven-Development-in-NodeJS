@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-and-test-driven-development-in-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkaaziebu/Unit-Testing-and-Test-Driven-Development-in-NodeJS.git"
+  },
+  "author": "Frederick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkaaziebu/Unit-Testing-and-Test-Driven-Development-in-NodeJS/issues"
+  },
+  "homepage": "https://github.com/fkaaziebu/Unit-Testing-and-Test-Driven-Development-in-NodeJS#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
